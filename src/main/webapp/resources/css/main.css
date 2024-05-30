@@ -1,0 +1,60 @@
+@charset "EUC-KR";
+ @font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+   }
+   .title {
+   font-family: 'Pretendard-Regular';
+   font-size:30px;
+   text-align:center;
+   color:white;
+   
+   }
+   .p1 {
+   font-family: 'Pretendard-Regular';
+   font-size:25px;
+   text-align:center;
+   padding: 40px; 
+   margin: 40px;
+   background-color: black;
+   border-radius:5px;
+   }
+   p {
+     font-family: 'Pretendard-Regular';
+   font-size:20px;
+   text-align:center;
+    }
+   .p3 {
+   font-family: 'Pretendard-Regular';
+   font-size:25px;
+   color:white;
+   text-align:center;
+   
+   }
+   .bg1{
+ background-image:url("https://hpimg.gsretail.com/_ui/desktop/common/images/gscvs/about/business_gs25_img01.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    Height:500px;
+   }
+   .d2{
+   background-color: black;
+    padding:8px;
+    }
+   a {
+    text-decoration: none;
+    text-align:center;
+   }
+   table {
+   font-family: 'Pretendard-Regular';
+   margin-left:auto;
+   margin-right:auto;
+   }
+  
+   h1 {
+   font-family: 'Pretendard-Regular';
+   font-size:25px;
+   text-align:center;
+   }
